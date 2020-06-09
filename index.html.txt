@@ -1,7 +1,0 @@
-<!DOCTYPE html>
-<html>
-<body>
-<embed src="cv_miguel_gutierrez.pdf" type="application/pdf" width="100%" height="600px" />
-<p>I'm hosted with GitHub Pages.</p>
-</body>
-</html>
